@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>teleop</name>
+  <version>1.2.5</version>
+  <description>
+    Provides teleoperation using joystick
+  </description>
+  <license>BSD</license>
+  <author></author>
+  <author email="noemail@mail.com">none</author>
+  <maintainer email="noemail@mail.com">none</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+</package>
